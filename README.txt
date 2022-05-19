@@ -1,5 +1,7 @@
 Welcome to my Homework Reminder program.
 
+I have removed all personal information such as my authentication tokens and course IDs. To use this yourself you will need ot provide your own credentials. See some of the needed things below:
+
 ------------------HomeworkReminder ---------------------------------------------
 This function calls the Canvas API to gather assignment information for a particular class.
 
@@ -17,7 +19,7 @@ To use this you will need the following:
 
 In order to access the GMail API I am using Gradle. 
 To send with GMail's API you will need to set up a cloud developer account and set up the OAuth authentication.
-I would recommend looking towards Google's documentation for the GMail API.
+To get a full list of needed credentials and setup I recommend Google's GMail API documentation.
 
 
 
