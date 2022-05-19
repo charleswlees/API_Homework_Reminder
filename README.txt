@@ -12,8 +12,6 @@ To use this you will need the following:
 2. Can be retrieved from the URL when accessing the course.
 3. I am using version 20220320.
 
-NOTE: my code is assuming that you are using the Northeastern Canvas, if you are not part of Northeastern the constant
-API_REQUEST will need to be altered for your Canvas site.
 
 -----------------------------------GMail API -----------------------------------
 
