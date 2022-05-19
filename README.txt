@@ -2,6 +2,8 @@ Welcome to my Homework Reminder program.
 
 I have removed all personal information such as my authentication tokens and course IDs. To use this yourself you will need ot provide your own credentials. See some of the needed things below:
 
+Main Java File is located in \src\main\java
+
 ------------------HomeworkReminder ---------------------------------------------
 This function calls the Canvas API to gather assignment information for a particular class.
 
