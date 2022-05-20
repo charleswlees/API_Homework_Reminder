@@ -25,7 +25,7 @@ To use the GMail API, Gradle will be managing most of it. All that we will need 
   a. Google has their own documentation for this process which is very useful.
 3. Place the credentials.json file in the src/main/resources folder of the project
 
-
-
+If you are unfamiliar with gradle,
+Once everything is in place you can navigate to the central folder for this project and use the command 'gradle run' to run the program.
 
 
