@@ -19,10 +19,11 @@ To use this you will need the following:
 
 -----------------------------------GMail API -----------------------------------
 
-In order to access the GMail API I am using Gradle. 
-To send with GMail's API you will need to set up a cloud developer account and set up the OAuth authentication.
-To get a full list of needed credentials and setup I recommend Google's GMail API documentation.
-
+To use the GMail API, Gradle will be managing most of it. All that we will need is:
+1. A Google Cloud Platform Developer Account
+2. Enabling and setting up OAuth credentials with the GMail API
+  a. Google has their own documentation for this process which is very useful.
+3. Place the credentials.json file in the src/main/resources folder of the project
 
 
 
