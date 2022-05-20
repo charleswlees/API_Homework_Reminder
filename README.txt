@@ -14,7 +14,7 @@ To use this you will need the following:
 
 1. Can be generated in the settings of your Canvas account.
 2. Can be retrieved from the URL when accessing the course.
-3. I am using version 20220320.
+3. I am using version 20220320, I have included it in the libs folder in this repository.
 
 
 -----------------------------------GMail API -----------------------------------
