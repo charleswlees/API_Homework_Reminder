@@ -4,7 +4,7 @@ I have removed all personal information such as my authentication tokens and cou
 
 Main Java File is located in \src\main\java
 
-------------------HomeworkReminder ---------------------------------------------
+## Homework Reminder
 This function calls the Canvas API to gather assignment information for a particular class.
 
 To use this you will need the following:
@@ -17,7 +17,7 @@ To use this you will need the following:
 3. I am using version 20220320, I have included it in the libs folder in this repository.
 
 
------------------------------------GMail API -----------------------------------
+## GMail API
 
 To use the GMail API, Gradle will be managing most of it. All that we will need is:
 1. A Google Cloud Platform Developer Account
